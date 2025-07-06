@@ -1,7 +1,7 @@
-# 📦 Smart Packaging Monitoring Platform  
+# Smart Packaging Monitoring Platform  
 **A Java EE (Jakarta) + Vue.js system for tracking IoT-enabled packages with real-time sensor data (temperature, acceleration, GPS).**  
 
-## 🚀 Features  
+## Features  
 - **Backend (Jakarta EE)**  
   - REST API for managing packages, sensors, and shipments  
   - PostgreSQL database with ORM (Hibernate)  
@@ -11,29 +11,13 @@
   - Customer portal to track package conditions (e.g., temperature alerts)  
   - Simulated sensor data generator for testing  
 
-## 🔧 Technologies  
+## Technologies  
 | Layer          | Tech Stack |  
 |----------------|------------|  
 | **Backend**    | Jakarta EE 10, JAX-RS, Hibernate, PostgreSQL |  
 | **Frontend**   | Vue.js 3, Nuxt, Pinia, Tailwind CSS |  
 | **DevOps**     | Docker, GitHub Actions |  
 
-## 🛠️ Setup  
-1. **Backend**  
-   ```bash  
-   cd backend  
-   mvn clean install wildfly:run  
-
-2. **Frontend**
-   ```bash
-   cd frontend
-   npm install
-   npm run dev
-
-3. **Database**
-   ```bash
-   docker-compose up --build
-
-## 📌 Project Context
+## Project Context
 Developed for Enterprise Application Development (3rd Year, Computer Engineering) at Intitute Polytechnic of Leiria.
 Team: Tomás Umbelino, Tiago Gomes, Carlos Franco, Daniel Brás.
