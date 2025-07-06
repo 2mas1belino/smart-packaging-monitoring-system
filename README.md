@@ -36,4 +36,4 @@
 
 ## 📌 Project Context
 Developed for Enterprise Application Development (3rd Year, Computer Engineering) at Intitute Polytechnic of Leiria.
-Team: Tomás Umeblino, Tiago Gomes, Carlos Franco, Daniel Brás.
+Team: Tomás Umbelino, Tiago Gomes, Carlos Franco, Daniel Brás.
